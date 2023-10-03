@@ -1,6 +1,6 @@
 Jenkins CICD pipeline for terraform code
 
-AWS EC2 Instance launch
-Security Group to allow SSH port in Inbound
-SonarQube to do Static Code Analysis
-Destroy the resources
+1. AWS EC2 Instance launch
+2. Security Group to allow SSH port in Inbound
+3. SonarQube to do Static Code Analysis
+4. Destroy the resources
